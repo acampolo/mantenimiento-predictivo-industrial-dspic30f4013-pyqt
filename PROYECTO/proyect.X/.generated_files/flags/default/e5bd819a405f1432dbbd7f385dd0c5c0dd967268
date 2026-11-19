@@ -1,1 +1,0 @@
- -c -mcpu=$(MP_PROCESSOR_OPTION)        -g -omf=elf -DXPRJ_default=$(CND_CONF)    $(COMPARISON_BUILD)  -mlarge-code -mlarge-data -O0 -msmart-io=1 -Wall -msfr-warn=off    -mdfp="${DFP_DIR}/xc16"/home/alex/Embedded_Systems/DOC_PROGRAMACION/DSPIC/PROYECTO/proyect.X/main_principal.c
